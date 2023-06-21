@@ -1,0 +1,29 @@
+.card-img-top{
+    max-height: 300px !important;
+}
+
+.card-name-price {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+  }
+  
+  .card-img-top:hover{
+    transform: scale(0.9); 
+  }
+
+  .card {
+    background-color: rgba(128, 128, 128, 0.097);
+    width: 18rem;
+    border-radius: 20px;
+    border-color: orange;
+    border: black;
+  }
+
+  .container{
+    display:flex;
+    flex-wrap:wrap;
+
+     
+
+  }
